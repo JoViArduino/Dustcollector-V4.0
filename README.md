@@ -1,6 +1,6 @@
-<p style="font-size:100px;color:red;"> Dustcollector-V4.0 </p>
+# Dustcollector-V4.0 
 
-Controlling dustcollecting system for multiple machines. 
+## Controlling dustcollecting system for multiple machines. 
 
 <p align="center" width="100%">
   
