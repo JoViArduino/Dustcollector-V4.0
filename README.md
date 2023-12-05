@@ -3,7 +3,7 @@ Dustcollector-V4.0
 Controlling dustcollecting system for multiple machines. 
 
 <div align=”center”>
- <p align=”center”>
+ <p style="text-align:center">
   
  <img style="text-align:center" src="https://github.com/JoViArduino/Dustcollector-V4.0/assets/140633857/648b5c5a-1eac-42a0-80e5-1cf86f43ff39.png" width="500"> 
  
