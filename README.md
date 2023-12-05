@@ -1,6 +1,6 @@
-# Dustcollector-V4.0 
+# Arduino Project: Dustcollector version 4 
 
-## Controlling dustcollecting system for multiple machines. 
+## Controlling dustcollecting system for multiple machines using valves. 
 
 <p align="left" width="100%">
   
