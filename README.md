@@ -1,4 +1,4 @@
-<p style="font-size:50px;"> Dustcollector-V4.0 </p>
+<p style="font-size:100px"> Dustcollector-V4.0 </p>
 
 Controlling dustcollecting system for multiple machines. 
 
