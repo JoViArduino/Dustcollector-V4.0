@@ -11,6 +11,6 @@ For every woodworker using lot of stationary machines it is important to remove 
 
 <img src="https://github.com/JoViArduino/Dustcollector-V4.0/assets/140633857/74546e31-ba92-42d6-848a-abd85dc0177a.png" width="400">
 
-<sub> 
+<sup> 
 (THe PCB for the project. An Arduino Uno is mounted under it while above there is an RS485 module. Here the PCB is placed on a test print of housing. Note the housing is only printer partially here, to see whether the PCB fits.)
-</sub>
+</sup>
